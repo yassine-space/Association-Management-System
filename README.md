@@ -171,7 +171,7 @@ Place an Arabic font (e.g. Amiri) in `static/fonts/` and the logo in `static/ima
 Computer Science student, Algeria
 Email: chebourouyassine05@gmail.com
 GitHub: https://github.com/yassine-space
-LinkedIn: [text](https://www.linkedin.com/in/yassine-chebourou-086b28337?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+LinkedIn: https://www.linkedin.com/in/yassine-chebourou-086b28337?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ---
 
